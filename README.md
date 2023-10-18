@@ -1,4 +1,4 @@
-# nwea
+# Delta airlines book flight example using playwirght
 
 - Move to a new directory and install playwright (https://playwright.dev/docs/intro#installing-playwright)
 - To run test locally, use "npx playwright test"
